@@ -9,9 +9,6 @@ services:
       RAM_SIZE: "4G"
       CPU_CORES: "4"
       DISK_SIZE: "500G"
-      LANGUAGE: "French"
-      REGION: "fr-FR"
-      KEYBOARD: "fr-FR"
     devices:
       - /dev/kvm
       - /dev/net/tun
